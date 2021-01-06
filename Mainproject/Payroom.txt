@@ -1,0 +1,2 @@
+Room pay : 103     
+Room do not pay : 
